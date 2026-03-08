@@ -1,0 +1,21 @@
+# teja2.com - LLMs Index
+
+Site: https://www.teja2.com/
+Primary language: es
+
+Machine-readable content:
+- https://www.teja2.com/ai/content.json
+- https://www.teja2.com/content.json
+- https://www.teja2.com/contacto/content.json
+- https://www.teja2.com/inmobiliaria-tomares/content.json
+- https://www.teja2.com/vender-casa-aljarafe/content.json
+- https://www.teja2.com/vender-tu-vivienda-en-el-aljarafe/content.json
+- https://www.teja2.com/amelia-carter-luxury-estates/content.json
+
+Canonical pages:
+- https://www.teja2.com/
+- https://www.teja2.com/contacto/
+- https://www.teja2.com/inmobiliaria-tomares/
+- https://www.teja2.com/vender-casa-aljarafe/
+- https://www.teja2.com/vender-tu-vivienda-en-el-aljarafe/
+- https://www.teja2.com/amelia-carter-luxury-estates/

@@ -1,0 +1,30 @@
+{
+  "site": "https://www.teja2.com/",
+  "generated_on": "2026-03-08",
+  "pages": [
+    {
+      "path": "/",
+      "json": "/content.json"
+    },
+    {
+      "path": "/contacto/",
+      "json": "/contacto/content.json"
+    },
+    {
+      "path": "/inmobiliaria-tomares/",
+      "json": "/inmobiliaria-tomares/content.json"
+    },
+    {
+      "path": "/vender-casa-aljarafe/",
+      "json": "/vender-casa-aljarafe/content.json"
+    },
+    {
+      "path": "/vender-tu-vivienda-en-el-aljarafe/",
+      "json": "/vender-tu-vivienda-en-el-aljarafe/content.json"
+    },
+    {
+      "path": "/amelia-carter-luxury-estates/",
+      "json": "/amelia-carter-luxury-estates/content.json"
+    }
+  ]
+}

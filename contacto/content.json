@@ -1,0 +1,33 @@
+{
+  "path": "/contacto/",
+  "url": "https://www.teja2.com/contacto/",
+  "lang": "es",
+  "title": "Inmobiliaria Aljarafe Teja2 - contacto",
+  "description": "Contacta con Inmobiliaria Aljarafe Teja2 para comprar o vender vivienda en Aljarafe y Sevilla.",
+  "h1": "Contacto Inmobiliaria Aljarafe Teja2",
+  "hero": "Trabajamos con un modelo flexible y eficiente, sin oficina abierta al público. Reuniones en inmueble, Sevilla/Aljarafe o videollamada.",
+  "sections": [
+    {
+      "heading": "Cómo trabajamos",
+      "items": [
+        "Reducimos costes estructurales para dedicar más recursos a la atención personalizada, análisis de mercado y gestión directa de cada operación.",
+        "También desarrollamos servicios de verificación técnica y validación de activos inmobiliarios en entornos digitales."
+      ]
+    },
+    {
+      "heading": "Datos de contacto",
+      "items": [
+        "Teléfono: +34 955 228113",
+        "Móvil: +34 615 006 533",
+        "Email: miguel.herrero@teja2.villas"
+      ]
+    }
+  ],
+  "faqs": [],
+  "contact": {
+    "phone": "+34 955 228113",
+    "mobile": "+34 615 006 533",
+    "email": "miguel.herrero@teja2.villas"
+  },
+  "rich_text_markdown": "## Cómo trabajamos\n- Reducimos costes estructurales para dedicar más recursos a la atención personalizada, análisis de mercado y gestión directa de cada operación.\n- También desarrollamos servicios de verificación técnica y validación de activos inmobiliarios en entornos digitales.\n\n## Datos de contacto\n- Teléfono: +34 955 228113\n- Móvil: +34 615 006 533\n- Email: miguel.herrero@teja2.villas"
+}
