@@ -25,6 +25,30 @@
     {
       "path": "/amelia-carter-luxury-estates/",
       "json": "/amelia-carter-luxury-estates/content.json"
+    },
+    {
+      "path": "/en/",
+      "json": "/en/content.json"
+    },
+    {
+      "path": "/en/contacto/",
+      "json": "/en/contacto/content.json"
+    },
+    {
+      "path": "/en/inmobiliaria-tomares/",
+      "json": "/en/inmobiliaria-tomares/content.json"
+    },
+    {
+      "path": "/en/vender-casa-aljarafe/",
+      "json": "/en/vender-casa-aljarafe/content.json"
+    },
+    {
+      "path": "/en/vender-tu-vivienda-en-el-aljarafe/",
+      "json": "/en/vender-tu-vivienda-en-el-aljarafe/content.json"
+    },
+    {
+      "path": "/en/amelia-carter-luxury-estates/",
+      "json": "/en/amelia-carter-luxury-estates/content.json"
     }
   ]
 }

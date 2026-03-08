@@ -4,6 +4,13 @@ Site: https://www.teja2.com/
 Primary language: es
 
 Machine-readable content:
+
+- https://www.teja2.com/en/content.json
+- https://www.teja2.com/en/contacto/content.json
+- https://www.teja2.com/en/inmobiliaria-tomares/content.json
+- https://www.teja2.com/en/vender-casa-aljarafe/content.json
+- https://www.teja2.com/en/vender-tu-vivienda-en-el-aljarafe/content.json
+- https://www.teja2.com/en/amelia-carter-luxury-estates/content.json
 - https://www.teja2.com/ai/content.json
 - https://www.teja2.com/content.json
 - https://www.teja2.com/contacto/content.json

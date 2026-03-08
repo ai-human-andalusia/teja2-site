@@ -1,0 +1,42 @@
+{
+  "path": "/en/inmobiliaria-tomares/",
+  "url": "https://www.teja2.com/en/inmobiliaria-tomares/",
+  "lang": "en",
+  "title": "Teja2 Real Estate | Tomares Real Estate Agency",
+  "description": "Professional support to buy or sell homes in Tomares with real local market knowledge.",
+  "h1": "Real Estate Agency in Tomares",
+  "hero": "Professional support to buy or sell apartments, houses and villas in Tomares with real market insight.",
+  "sections": [
+    {
+      "heading": "Selling property in Tomares",
+      "items": [
+        "Professional valuation based on real market data.",
+        "Professional photo shoot and listing strategy.",
+        "Qualified visits and buyer screening.",
+        "Legal and documentation support until closing."
+      ]
+    },
+    {
+      "heading": "Buying property in Tomares",
+      "items": [
+        "Property search aligned with your budget.",
+        "Property condition and documentation review.",
+        "Negotiation support and transaction coordination."
+      ]
+    },
+    {
+      "heading": "Tomares market overview",
+      "items": [
+        "High demand for family homes and villas.",
+        "Solid valuation in established neighborhoods.",
+        "Growing interest from Seville-based buyers."
+      ]
+    }
+  ],
+  "faqs": [],
+  "contact": {
+    "phone": "+34 955 228113",
+    "mobile": "+34 615 006 533",
+    "email": "miguel.herrero@teja2.villas"
+  }
+}

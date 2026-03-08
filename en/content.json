@@ -1,0 +1,57 @@
+{
+  "path": "/en/",
+  "url": "https://www.teja2.com/en/",
+  "lang": "en",
+  "title": "Teja2 Real Estate Aljarafe | Buy and Sell Homes in Seville",
+  "description": "Real estate agency in Aljarafe specialized in buying and selling homes in Tomares, Mairena del Aljarafe, Bormujos and Seville.",
+  "h1": "Real Estate in Aljarafe: Buy and Sell Homes and Apartments",
+  "hero": "We are a local real estate agency focused on secure transactions, realistic valuation and professional guidance from first visit to notary.",
+  "sections": [
+    {
+      "heading": "25+ years of real estate experience in Andalusia",
+      "items": [
+        "Over 25 years in the sector.",
+        "Specialists in residential and commercial assets.",
+        "Experience with adjudicated properties and investment portfolios.",
+        "Deep local market knowledge."
+      ]
+    },
+    {
+      "heading": "Buy homes in Aljarafe and Seville",
+      "items": [
+        "We help buyers analyze real market value.",
+        "We identify risks before signing.",
+        "We review legal and registry documentation.",
+        "We negotiate with a data-driven approach."
+      ]
+    },
+    {
+      "heading": "Sell homes in Aljarafe and Seville",
+      "items": [
+        "Realistic pricing strategy based on comparable sales.",
+        "Qualified buyer filtering.",
+        "Full process management until closing.",
+        "Professional support through notary stage."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you work only in Aljarafe?",
+      "answer": "Our core area is Aljarafe and Seville city. We can also support selected operations in other areas through specialized partners."
+    },
+    {
+      "question": "Can you help me buy in Seville city?",
+      "answer": "Yes. We support both buyers and sellers in Aljarafe and Seville with full transaction guidance."
+    },
+    {
+      "question": "How do I start selling my house?",
+      "answer": "The first step is a professional valuation and a clear market strategy tailored to your property."
+    }
+  ],
+  "contact": {
+    "phone": "+34 955 228113",
+    "mobile": "+34 615 006 533",
+    "email": "miguel.herrero@teja2.villas"
+  }
+}

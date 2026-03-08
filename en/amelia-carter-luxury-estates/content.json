@@ -1,0 +1,33 @@
+{
+  "path": "/en/amelia-carter-luxury-estates/",
+  "url": "https://www.teja2.com/en/amelia-carter-luxury-estates/",
+  "lang": "en",
+  "title": "Amelia Carter Luxury Estates | Costa del Sol Luxury Real Estate",
+  "description": "Exclusive villas, penthouses and premium Mediterranean properties for international buyers.",
+  "h1": "Amelia Carter Luxury Estates",
+  "hero": "Exclusive villas, penthouses and premium Mediterranean properties on the Costa del Sol.",
+  "sections": [
+    {
+      "heading": "Luxury Real Estate Expertise",
+      "items": [
+        "Premium advisory in Marbella, Estepona, Benahavís and Sotogrande.",
+        "Refined property selection and discreet service.",
+        "Structured support for international clients."
+      ]
+    },
+    {
+      "heading": "Client profile",
+      "items": [
+        "International private buyers.",
+        "Relocation and second-home clients.",
+        "Family office and entrepreneur profiles."
+      ]
+    }
+  ],
+  "faqs": [],
+  "contact": {
+    "phone": "+34 955 228113",
+    "mobile": "+34 615 006 533",
+    "email": "miguel.herrero@teja2.villas"
+  }
+}

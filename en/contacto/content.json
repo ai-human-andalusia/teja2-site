@@ -1,0 +1,32 @@
+{
+  "path": "/en/contacto/",
+  "url": "https://www.teja2.com/en/contacto/",
+  "lang": "en",
+  "title": "Teja2 Real Estate | Contact",
+  "description": "Contact Teja2 for buying or selling property in Aljarafe and Seville.",
+  "h1": "Contact Teja2 Real Estate",
+  "hero": "We work with a flexible model without a public office. Meetings are held at the property, in Seville/Aljarafe or by video call.",
+  "sections": [
+    {
+      "heading": "How we work",
+      "items": [
+        "We prioritize personalized advice, market analysis and direct transaction management.",
+        "We also provide technical validation services for selected real estate assets."
+      ]
+    },
+    {
+      "heading": "Contact details",
+      "items": [
+        "Phone: +34 955 228113",
+        "Mobile: +34 615 006 533",
+        "Email: miguel.herrero@teja2.villas"
+      ]
+    }
+  ],
+  "faqs": [],
+  "contact": {
+    "phone": "+34 955 228113",
+    "mobile": "+34 615 006 533",
+    "email": "miguel.herrero@teja2.villas"
+  }
+}
